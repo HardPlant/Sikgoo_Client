@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "932339378404",
+    "firebase_url": "https://sikgoo-17cff.firebaseio.com",
+    "project_id": "sikgoo-17cff",
+    "storage_bucket": "sikgoo-17cff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932339378404:android:672904af8a1c837f",
+        "android_client_info": {
+          "package_name": "org.kang.sikgoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932339378404-akrm6fi6q2tn96q0jhggm18rd1tbcemm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIuO6kDP8gJ_T2tpzD6vGrs1Qn0__leuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
