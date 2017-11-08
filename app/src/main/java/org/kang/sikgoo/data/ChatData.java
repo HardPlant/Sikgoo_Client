@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.data;
 
 /**
  * Created by KANG on 2017-10-17.

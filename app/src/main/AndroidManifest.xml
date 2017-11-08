@@ -15,7 +15,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activities.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -23,14 +23,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".SettingsActivity"
+            android:name=".activities.SettingsActivity"
             android:label="@string/title_activity_settings"
             android:theme="@style/AppTheme" />
-        <activity android:name=".RestaurantSearchActivity" />
+        <activity android:name=".activities.RestaurantSearchActivity" />
         <activity
-            android:name=".LoginActivity"
+            android:name=".activities.LoginActivity"
             android:label="@string/title_activity_login" />
-        <activity android:name=".MatchWaitingActivity" />
+        <activity android:name=".activities.MatchWaitingActivity" />
 
         <service android:name=".MyFirebaseMessagingService">
             <intent-filter>
@@ -44,10 +44,10 @@
         </service>
 
         <activity
-            android:name=".FirebaseChatActivity"
+            android:name=".activities.FirebaseChatActivity"
             android:label="@string/title_activity_firebase_chat"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".ViewPagerActivity"></activity>
+        <activity android:name=".activities.ViewPagerActivity"></activity>
     </application>
 
 </manifest>

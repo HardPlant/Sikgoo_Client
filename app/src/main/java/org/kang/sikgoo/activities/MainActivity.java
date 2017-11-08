@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
 import android.content.Intent;
 import android.support.design.widget.TabLayout;
@@ -12,6 +12,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Button;
 
+import org.kang.sikgoo.R;
 import org.kang.sikgoo.fragment.MainFragment;
 import org.kang.sikgoo.fragment.RestaurantFragment;
 

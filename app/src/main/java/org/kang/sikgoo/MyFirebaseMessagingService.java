@@ -11,6 +11,8 @@ import android.support.v4.app.NotificationCompat;
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
 
+import org.kang.sikgoo.activities.MainActivity;
+
 /**
  * Created by KANG on 2017-10-17.
  */

@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.RestaurantItem;
 
 import android.content.Context;
 import android.media.Image;

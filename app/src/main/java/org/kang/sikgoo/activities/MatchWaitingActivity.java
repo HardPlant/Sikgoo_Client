@@ -1,9 +1,8 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
         import android.app.NotificationManager;
         import android.content.Context;
         import android.content.Intent;
-        import android.nfc.Tag;
         import android.support.v4.app.NotificationCompat;
         import android.support.v7.app.AppCompatActivity;
         import android.os.Bundle;
@@ -12,9 +11,10 @@ package org.kang.sikgoo;
         import android.widget.Button;
         import android.widget.TextView;
 
-        import com.google.gson.Gson;
-
-        import java.util.List;
+        import org.kang.sikgoo.Match.Matcher;
+        import org.kang.sikgoo.Match.MatcherTask;
+        import org.kang.sikgoo.R;
+        import org.kang.sikgoo.activities.FirebaseChatActivity;
 
 
 public class MatchWaitingActivity extends AppCompatActivity {

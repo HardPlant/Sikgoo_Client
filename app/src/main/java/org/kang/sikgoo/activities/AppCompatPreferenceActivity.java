@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
 import android.content.res.Configuration;
 import android.os.Bundle;

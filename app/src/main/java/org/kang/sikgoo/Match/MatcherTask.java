@@ -1,13 +1,11 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.Match;
 
-import android.app.NotificationManager;
-import android.content.Context;
 import android.os.AsyncTask;
-import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
 import com.google.firebase.iid.FirebaseInstanceId;
-import com.google.firebase.messaging.FirebaseMessaging;
+
+import org.kang.sikgoo.Match.Matcher;
 
 import retrofit2.Call;
 import retrofit2.Callback;

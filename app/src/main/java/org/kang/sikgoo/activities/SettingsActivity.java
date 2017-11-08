@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -18,6 +18,8 @@ import android.preference.PreferenceManager;
 import android.preference.RingtonePreference;
 import android.text.TextUtils;
 import android.view.MenuItem;
+
+import org.kang.sikgoo.R;
 
 import java.util.List;
 

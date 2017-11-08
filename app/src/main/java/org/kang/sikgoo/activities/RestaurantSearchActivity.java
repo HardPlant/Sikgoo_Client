@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -7,6 +7,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.BaseAdapter;
 import android.widget.ListView;
+
+import org.kang.sikgoo.R;
+import org.kang.sikgoo.RestaurantItem.RestaurantInfoView;
+import org.kang.sikgoo.data.RestaurantInfo;
 
 import java.util.ArrayList;
 

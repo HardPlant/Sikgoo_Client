@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.Match;
 
 import com.google.gson.annotations.SerializedName;
 

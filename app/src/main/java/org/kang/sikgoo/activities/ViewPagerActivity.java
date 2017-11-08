@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.activities;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -13,6 +13,7 @@ import com.github.florent37.materialviewpager.MaterialViewPager;
 import com.github.florent37.materialviewpager.header.HeaderDesign;
 import com.github.florent37.materialviewpager.header.MaterialViewPagerHeaderDecorator;
 
+import org.kang.sikgoo.R;
 import org.kang.sikgoo.fragment.MainFragment;
 import org.kang.sikgoo.fragment.RestaurantFragment;
 

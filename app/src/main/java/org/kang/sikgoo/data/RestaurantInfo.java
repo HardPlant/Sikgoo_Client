@@ -1,4 +1,4 @@
-package org.kang.sikgoo;
+package org.kang.sikgoo.data;
 
 import java.util.Arrays;
 
